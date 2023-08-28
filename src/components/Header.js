@@ -19,7 +19,7 @@ function Header() {
 
       <nav class="space-x-4">
         <a href="0" class="text-gray-500">Entrar</a>
-        <a href="0" class="text-white bg-red-900 p-2 rounded-lg">Cadastrar</a>
+        <a href="0" class="text-white bg-red-900 p-3 rounded-lg font-medium text-base">Cadastrar</a>
       </nav>
     </div>
   </header>

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Profission() {
   return (
-    <main class=" w-1/3 mx-auto ">
+    <main class=" w-1/3 mx-auto  mb-24">
     <div class="">
       <p class="text-left text-xl text-gray-900 font-medium">Design</p>
       <div class="mt-8 rounded-2xl border border-gray-200 p-4">
@@ -45,7 +45,7 @@ function Profission() {
       </div>
     </div>
 
-    <div class="mb-24">
+    <div>
       <div class="mt-8 rounded-2xl border border-gray-200 p-4">
         <h1 class="text-gray-900 font-medium text-lg">Desenvolvedor(a) Back-end</h1>
         <div class="flex mt-8">
