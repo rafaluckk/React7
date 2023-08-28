@@ -3,6 +3,7 @@ import React from 'react';
 import Header from './components/Header'; // Use um caminho relativo
 import SobreNos from './components/SobreNos';
 import Colab from './components/Colab';
+import Vagas from './components/Vagas'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <SobreNos />
       <Colab />
+      <Vagas />
     </div>
   );
 }
